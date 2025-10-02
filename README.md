@@ -10,7 +10,7 @@
 ### Glad you are here!
 
 ### 👨‍💻 About Me:
-I'm a **Software Technologies Resolutionist** specialist focused on delivering robust solutions across DevOps, cloud, and software engineering.  
+I'm a **Software Technologies Resolutionist** focused on delivering robust solutions across DevOps, cloud, and software engineering.  
 Driven by a passion for optimising workflows and bridging technology gaps, I strive to empower teams with scalable, automated, and reliable systems.
 
 I explore all tech stacks and concepts to bring ideas to life.
