@@ -47,8 +47,6 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 - 🔭 Curious mind. Quick learner and adapts to things and the environment. Always ready to build and recreate better.
 - 🌱 I explore all tech stacks and concepts to bring ideas to life.
 - 💬 Always open to collaborations, tech discussions, and exploring new opportunities in **DevOps, Cloud, and Software Development**.
-- ♨ Identifies as a Software Technologies Resolutionist with a focus on DevOps, cloud, and software engineering.
-- 📥 Skilled in delivering robust, scalable, and automated systems that optimise workflows and bridge technology gaps.
 - 🫀 Strong foundation in both front-end and back-end development, offering a holistic view of the software lifecycle.
 - 🍀 Passionate about transforming ideas into impactful and user-focused solutions.
 - 🏤 Quick to adapt to new tools, frameworks, and cloud-native practices in a fast-evolving tech landscape.
