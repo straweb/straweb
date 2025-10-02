@@ -129,33 +129,33 @@ Would you like My Work?
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=straweb&label=Profile%20views&color=0e75b6&style=flat" alt="straweb" /> </p>
 
-![GitHub followers](https://img.shields.io/github/followers/:straweb)
+<!-- ![GitHub followers](https://img.shields.io/github/followers/:straweb) -->
 <!-- ![GitHub forks](https://img.shields.io/github/forks/:straweb/:straweb) -->
-![GitHub Gist stars](https://img.shields.io/github/gist/stars/:gistId)
-![GitHub User's stars](https://img.shields.io/github/stars/:straweb)
-![GitHub Repo stars](https://img.shields.io/github/stars/:straweb/:straweb)
-![GitHub watchers](https://img.shields.io/github/watchers/:straweb/:straweb)
-![GitHub code search count](https://img.shields.io/github/search)
+<!-- ![GitHub Gist stars](https://img.shields.io/github/gist/stars/:gistId) -->
+<!-- ![GitHub User's stars](https://img.shields.io/github/stars/:straweb) -->
+<!-- ![GitHub Repo stars](https://img.shields.io/github/stars/:straweb/:straweb) -->
+<!-- ![GitHub watchers](https://img.shields.io/github/watchers/:straweb/:straweb) -->
+<!-- ![GitHub code search count](https://img.shields.io/github/search) -->
 <!-- ![GitHub language count](https://img.shields.io/github/languages/count/:straweb/:straweb) -->
 <!-- ![GitHub contributors](https://img.shields.io/github/:metric/:straweb/:straweb) -->
-![GitHub Created At](https://img.shields.io/github/created-at/:straweb/:straweb)
+<!-- ![GitHub Created At](https://img.shields.io/github/created-at/:straweb/:straweb) -->
 <!-- ![Chocolatey Downloads](https://img.shields.io/chocolatey/dt/:packageName) -->
 <!-- ![Chrome Web Store Users](https://img.shields.io/chrome-web-store/users/:storeId) -->
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/:straweb/:straweb/total)
+<!-- ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/:straweb/:straweb/total) -->
 <!-- ![NPM Downloads by package author](https://img.shields.io/npm-stat/:interval/:author) -->
 <!-- ![NPM Downloads](https://img.shields.io/npm/:interval/:packageName) -->
 <!-- ![NuGet Downloads](https://img.shields.io/nuget/dt/:packageName) -->
-![GitHub Sponsors](https://img.shields.io/github/sponsors/:straweb)
-![GitHub License](https://img.shields.io/github/license/:straweb/:straweb)
+<!-- ![GitHub Sponsors](https://img.shields.io/github/sponsors/:straweb) -->
+<!-- ![GitHub License](https://img.shields.io/github/license/:straweb/:straweb) -->
 <!-- ![GitHub deployments](https://img.shields.io/github/deployments/:straweb/:straweb/:environment) -->
-![GitHub Discussions](https://img.shields.io/github/discussions/:straweb/:straweb)
+<!-- ![GitHub Discussions](https://img.shields.io/github/discussions/:straweb/:straweb) -->
 <!-- ![GitHub package.json prod dependency version](https://img.shields.io/github/package-json/dependency-version/:straweb/:straweb/:straweb) -->
 <!-- ![Node Current](https://img.shields.io/node/v/:packageName) -->
 <!-- ![Node Current (with tag)](https://img.shields.io/node/v/:packageName/:tag) -->
 <!-- ![NPM (prod) Dependency Version](https://img.shields.io/npm/dependency-version/:packageName/:dependency) -->
-![GitHub repo size](https://img.shields.io/github/repo-size/:straweb/:straweb)
-![Bower Version](https://img.shields.io/bower/v/:packageName)
-![GitHub package.json version (master)](https://img.shields.io/github/package-json/v/:straweb/:straweb/:master)
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/:straweb/:straweb) -->
+<!-- ![Bower Version](https://img.shields.io/bower/v/:packageName) -->
+<!-- ![GitHub package.json version (master)](https://img.shields.io/github/package-json/v/:straweb/:straweb/:master) -->
 <!-- ![NPM Version](https://img.shields.io/npm/v/:packageName) -->
 
 <!--
