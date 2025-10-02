@@ -12,13 +12,13 @@
 ### 👨‍💻 About Me:
 As a self-styled Software Technologies Resolutionist, I specialise in delivering end-to-end solutions that integrate the best of DevOps, cloud platforms, and software engineering practices. My core focus lies in designing and implementing robust, scalable, and automated systems that not only optimise workflows but also bridge critical gaps between evolving technologies and practical business needs. By empowering teams through reliable infrastructures and efficient pipelines, I help organisations achieve greater agility, consistency, and long-term growth.
 
-I possess a comprehensive foundation in both front-end and back-end development, providing me with a full-spectrum understanding of the software development lifecycle. This versatility allows me to architect user-focused applications that marry functionality with performance while ensuring long-term scalability and maintainability. With strong problem-solving skills and a passion for innovation, I continuously explore new frameworks, cloud-native practices, and emerging trends to stay ahead in the fast-paced technology landscape.
+I possess a comprehensive foundation in both front-end and back-end development, providing me with a full-spectrum understanding of the software development lifecycle. This versatility enables me to design user-focused applications that seamlessly integrate functionality with performance while ensuring long-term scalability and maintainability. With strong problem-solving skills and a passion for innovation, I continuously explore new frameworks, cloud-native practices, and emerging trends to stay ahead in the fast-paced technology landscape.
 
 Beyond technical execution, I view each project as an opportunity to transform ideas into impactful realities. My curiosity fuels a drive toward experimentation, collaborative contributions, and continuous refinement of practices. This mindset enables me to align innovation with tangible business outcomes—delivering not just solutions, but systems that evolve, adapt, and grow alongside organisational needs.
 
-Beyond technical proficiency, I excel in problem-solving and thrive in tackling complex challenges by applying creative, analytical, and practical approaches. I adapt quickly to new tools and methodologies, embracing change as an opportunity to grow and expand my capabilities. With a strong commitment to continuous learning, I actively experiment with emerging technologies, contribute to collaborative projects, and refine my craft to consistently deliver high-quality outcomes. Ultimately, my goal is to merge innovation with execution—building solutions that not only meet immediate requirements but also scale to future needs.
+Beyond technical proficiency, I excel in problem-solving and thrive in tackling complex challenges by applying creative, analytical, and practical approaches. I adapt quickly to new tools and methodologies, embracing change as an opportunity to grow and expand my capabilities. With a strong commitment to continuous learning, I actively experiment with emerging technologies, contribute to collaborative projects, and refine my skills to deliver high-quality outcomes consistently. Ultimately, my goal is to merge innovation with execution—building solutions that not only meet immediate requirements but also scale to future needs.
 
-I am deeply passionate about continuous learning and adaptability, embracing new opportunities to grow both personally and professionally. With a strong curiosity for emerging technologies, frameworks, and innovative concepts, I make it a priority to stay ahead in the rapidly evolving software landscape. My journey is defined by a commitment to lifelong growth, whether that means experimenting with cutting-edge tools, engaging in open-source contributions, or refining existing skills to achieve excellence. By actively exploring and applying these advancements, I aim to deliver creative, effective, and future-ready solutions that not only solve problems but also push the boundaries of innovation.
+I am deeply passionate about continuous learning and adaptability, embracing new opportunities to grow both personally and professionally. With a strong curiosity for emerging technologies, frameworks, and innovative concepts, I make it a priority to stay ahead in the rapidly evolving software landscape. A commitment to lifelong growth defines my journey, whether that means experimenting with cutting-edge tools, engaging in open-source contributions, or refining existing skills to achieve excellence. By actively exploring and applying these advancements, I aim to deliver creative, effective, and future-ready solutions that not only solve problems but also push the boundaries of innovation.
 
 Resourceful and curious professional recognised for adapting swiftly to evolving environments and mastering new skills with ease. Demonstrated quick learning in dynamic roles, consistently driving process improvements and innovative solutions. Passionate about building and recreating systems for better performance, enabling continuous growth for the team and organisation. Committed to bringing energy and creative problem-solving to new challenges.
 
@@ -54,21 +54,12 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 
 ### 📌 Highlights:
 - 🛠 Built **multiple industry-based products** in top companies and branded.
-- 🚀 Working on making **ideology to make it live** and run successfully in the industry.
+- 💡 Working on making **ideology to make it live** and run successfully in the industry.
 - 🐧 Comfortable with **any tech stack and industry knowledge**
 - ☁️ Learning & applying **concepts into project applications**
-- 💡 Curious mind. Quick learner and adapts to things and the environment. Always ready to build and recreate better.
-- I explore all tech stacks and concepts to bring ideas to life.
-
-### Here are the key highlights distilled:
-
-- Identifies as a Software Technologies Resolutionist with a focus on DevOps, cloud, and software engineering.
-- Skilled in delivering robust, scalable, and automated systems that optimise workflows and bridge technology gaps.
-- Strong foundation in both front-end and back-end development, offering a holistic view of the software lifecycle.
-- Passionate about transforming ideas into impactful and user-focused solutions.
-- Quick to adapt to new tools, frameworks, and cloud-native practices in a fast-evolving tech landscape.
-- Driven by continuous learning, innovation, and experimentation with emerging technologies.
-- Committed to empowering teams with reliable infrastructures and processes that scale with organisational needs.
+- 🔭 Curious mind. Quick learner and adapts to things and the environment. Always ready to build and recreate better.
+- 🌱I explore all tech stacks and concepts to bring ideas to life.
+- 💬 Always open to collaborations, tech discussions, and exploring new opportunities in **DevOps, Cloud, and Software Development**.
 
 <hr>
 
@@ -120,10 +111,19 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 
 ---
 
-💬 Always open to collaborations, tech discussions, and exploring new opportunities in **DevOps, Cloud, and Software Development**.
+<hr>
 
+###Here are the key highlights distilled:
 
-Would you like My Work?
+- Identifies as a Software Technologies Resolutionist with a focus on DevOps, cloud, and software engineering.
+- Skilled in delivering robust, scalable, and automated systems that optimise workflows and bridge technology gaps.
+- Strong foundation in both front-end and back-end development, offering a holistic view of the software lifecycle.
+- Passionate about transforming ideas into impactful and user-focused solutions.
+- Quick to adapt to new tools, frameworks, and cloud-native practices in a fast-evolving tech landscape.
+- Driven by continuous learning, innovation, and experimentation with emerging technologies.
+- Committed to empowering teams with reliable infrastructures and processes that scale with organisational needs.
+
+Would you like to complement my skills and growth?
 
 <a href="https://www.buymeacoffee.com/straweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
