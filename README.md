@@ -36,19 +36,6 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 <!-- </details> -->
 
 <hr>
-<h3 align="left">✨ Random Dev Quote::</h3>
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
-</p>
-<hr>
-
-### 🚀 What I’m Working On:
-- 🪩 Building **basic Operating System**
-- ⛰︎ Enhancing **tech frameworks and concepts**
-- 🌍 Crafting **Mobile apps, games** and backend services
-
-
-<hr>
 
 <img align="right" height="250" width="375" alt="" src="./coder.gif" />
 
@@ -60,6 +47,26 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 - 🔭 Curious mind. Quick learner and adapts to things and the environment. Always ready to build and recreate better.
 - 🌱 I explore all tech stacks and concepts to bring ideas to life.
 - 💬 Always open to collaborations, tech discussions, and exploring new opportunities in **DevOps, Cloud, and Software Development**.
+- ♨ Identifies as a Software Technologies Resolutionist with a focus on DevOps, cloud, and software engineering.
+- 📥 Skilled in delivering robust, scalable, and automated systems that optimise workflows and bridge technology gaps.
+- 🫀 Strong foundation in both front-end and back-end development, offering a holistic view of the software lifecycle.
+- 🍀 Passionate about transforming ideas into impactful and user-focused solutions.
+- 🏤 Quick to adapt to new tools, frameworks, and cloud-native practices in a fast-evolving tech landscape.
+- 📚 Driven by continuous learning, innovation, and experimentation with emerging technologies.
+- 🎓 Committed to empowering teams with reliable infrastructures and processes that scale with organisational needs.
+
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
+
+### 🚀 What I’m Working On:
+- 🪩 Building **basic Operating System**
+- ⛰︎ Enhancing **tech frameworks and concepts**
+- 🌍 Crafting **Mobile apps, games** and backend services
+
 
 <hr>
 
@@ -114,14 +121,18 @@ Resourceful and curious professional recognised for adapting swiftly to evolving
 
 ### 🖍 Here are the key highlights distilled:
 
-- ♨ Identifies as a Software Technologies Resolutionist with a focus on DevOps, cloud, and software engineering.
-- 📥 Skilled in delivering robust, scalable, and automated systems that optimise workflows and bridge technology gaps.
-- 🫀 Strong foundation in both front-end and back-end development, offering a holistic view of the software lifecycle.
-- 🍀 Passionate about transforming ideas into impactful and user-focused solutions.
-- 🏤 Quick to adapt to new tools, frameworks, and cloud-native practices in a fast-evolving tech landscape.
-- 📚 Driven by continuous learning, innovation, and experimentation with emerging technologies.
-- 🎓 Committed to empowering teams with reliable infrastructures and processes that scale with organisational needs.
-
+<ul dir="auto">
+  <li>♨ Self-identified as a <em>Software Technologies Resolutionist</em> who designs sustainable, impactful systems.</li>
+  <li>📥 Passionate about turning ideas into reliable, scalable, robust, automated systems that optimise workflows by bridging tech gaps and meaningful solutions.</li>
+  <li>💻 Skilled in both front-end and back-end development, creating a balance between functionality, performance, and maintainability.</li>
+  <li>🏤 Thrives in fast-changing environments, viewing change as an opportunity rather than a disruption.</li>
+  <li>📝 Driven by curiosity and problem-solving, with a focus on understanding root causes and designing solutions that meet present and future needs.</li>
+  <li>📚 Continuously explores new tools, frameworks, and cloud-native practices, engaging in learning and open-source contributions.</li>
+  <li>🎞️ Values collaboration, experimentation, and adaptability as cornerstones of meaningful projects.</li>
+  <li>🎓 Believes technology is not just about systems but about enabling growth, adaptability, and creativity for people and organisations.</li>
+  <li>🍀 Approaches challenges with energy, creativity, and a commitment to continuous improvement.</li>
+  <li>🏤 Sees solutions as evolving systems that grow and adapt—reflecting own mindset of lifelong learning and growth.</li>
+</ul>
 Would you like to complement my skills and growth?
 
 <a href="https://www.buymeacoffee.com/straweb" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
