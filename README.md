@@ -151,7 +151,8 @@ Would you like to complement my skills and growth?
 ### <a href="https://straweb.netlify.app/">My Portfolio</a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=straweb&label=Profile%20views&color=0e75b6&style=flat" alt="straweb" /> </p>
-
+<a href="https://info.flagcounter.com/EmBF"><img src="https://s01.flagcounter.com/count/EmBF/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_30/viewers_3/labels_0/pageviews_1/flags_0/percent_1/" alt="Flag Counter" border="0"></a>
+</div>
 <!-- ![GitHub followers](https://img.shields.io/github/followers/:straweb) -->
 <!-- ![GitHub forks](https://img.shields.io/github/forks/:straweb/:straweb) -->
 <!-- ![GitHub Gist stars](https://img.shields.io/github/gist/stars/:gistId) -->
